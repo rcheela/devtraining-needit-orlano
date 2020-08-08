@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2020-08-08 19:45:29">
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Workspace Experience">81a6ba9b530233004cb4ddeeff7b1258</application>
+<assessment display_value=""/>
+<device_type/>
+<filter/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<link_type>DIRECT</link_type>
+<map_page display_value=""/>
+<mobile_title>needit ➚</mobile_title>
+<mobile_view_name>Mobile</mobile_view_name>
+<name/>
+<order>101</order>
+<override_menu_roles>false</override_menu_roles>
+<query>x/523679/workspace/needit</query>
+<report display_value=""/>
+<roles>admin</roles>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-08 19:37:30</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>f11dec0107229010b81cfea89c1ed066</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>needit ➚</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="needit" source="x_523679_needit">b1dc2c0107229010b81cfea89c1ed09f</sys_package>
+<sys_policy/>
+<sys_scope display_value="needit">b1dc2c0107229010b81cfea89c1ed09f</sys_scope>
+<sys_update_name>sys_app_module_f11dec0107229010b81cfea89c1ed066</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-08 19:37:30</sys_updated_on>
+<timeline_page display_value=""/>
+<title>needit ➚</title>
+<uncancelable>false</uncancelable>
+<view_name/>
+<window_name>needit</window_name>
+</sys_app_module>
+</unload>
